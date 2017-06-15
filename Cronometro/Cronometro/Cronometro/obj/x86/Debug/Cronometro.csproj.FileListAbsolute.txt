@@ -1,0 +1,32 @@
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csprojResolveAssemblyReference.cache
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+C:\Users\Thatiele\Downloads\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Properties.Resources.resources
+E:\Executaveis Liberados\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csproj.GenerateResource.Cache
+G:\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+G:\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
+G:\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+G:\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+G:\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csprojResolveAssemblyReference.cache
+G:\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+G:\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Properties.Resources.resources
+G:\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csproj.GenerateResource.Cache
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csprojResolveAssemblyReference.cache
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Properties.Resources.resources
+G:\Programas dos Videos\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csproj.GenerateResource.Cache
